@@ -1,0 +1,3 @@
+nombre,tipo,direccion,latitud,longitud,telefono,horario,zona,medios_pago
+Super Vegano,dietetica,Calle Falsa 123,-34.6037,-58.3816,111111111,"Lun-Sab 9-20",Centro,"Tarjeta, MercadoPago"
+Farmacia Salud,farmacia,Av Siempreviva 456,-34.58,-58.42,222222222,"Lun-Dom 8-20",Palermo,"Efectivo, Débito"
